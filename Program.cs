@@ -1,33 +1,34 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace NHAPXUAT2NGAY
+namespace BTAPTONGMANG
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("NHAP NGAY DAU TIEN (NAM/THANG /NGAY): ");
-            string input1 = Console.ReadLine();
-            DateTime ngay1;
-            if (DateTime.TryParse(input1, out ngay1))
+            Console.Write("Nhap n: ");
+            int n = int.Parse(Console.ReadLine());
+
+            int[] array = new int[n];
+            for (int i = 0; i < n; i++)
             {
-                Console.Write("NHAP NGAY THU 2  (NAM/THANG /NGAY): ");
-                string input2 = Console.ReadLine();
-                DateTime ngay2;
-                if (DateTime.TryParse(input2, out ngay2))
-                {
-                    TimeSpan khoangCach = ngay2 - ngay1;
-                    Console.WriteLine($"KHOAN CACH GIU NGAY LA {khoangCach.Days} ngày.");
-                }
-                else
-                {
-                    Console.WriteLine("NGAY THU 2 KHONG HOP LE.VUI LONG NHAP LAI!.");
-                }
+                Console.Write("Nhap phan tu thu {0}: ", i + 1);
+                array[i] = int.Parse(Console.ReadLine());
             }
-            else
+
+            int sum = 0;
+            for (int i = 0; i < n; i++)
             {
-                Console.WriteLine("NGAY THU 2 KHONG HOP LE. VUI LONG NHAP LAI!.");
+                sum += array[i];
+
             }
+
+            Console.WriteLine("\nTong cua cac phan tu trong mang la: {0}\n", sum);
+            Console.ReadKey();
         }
     }
 }
