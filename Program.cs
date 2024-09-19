@@ -4,31 +4,33 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BTAPTONGMANG
+namespace BTAP11
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.Write("Nhap n: ");
-            int n = int.Parse(Console.ReadLine());
+            int a, b;
+            Console.WriteLine("Nhap a:");
+            a = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("nhap b:");
+            b = Convert.ToInt32(Console.ReadLine());
 
-            int[] array = new int[n];
-            for (int i = 0; i < n; i++)
-            {
-                Console.Write("Nhap phan tu thu {0}: ", i + 1);
-                array[i] = int.Parse(Console.ReadLine());
-            }
+            int Tinhsolonnhat = GCD(a, b);
 
-            int sum = 0;
-            for (int i = 0; i < n; i++)
-            {
-                sum += array[i];
-
-            }
-
-            Console.WriteLine("\nTong cua cac phan tu trong mang la: {0}\n", sum);
+            Console.Write("\nTinhsolonnhat cua {0} va {1} la: {2}\n\n", a, b, Tinhsolonnhat);
             Console.ReadKey();
+        }
+
+        static int GCD(int a, int b)
+        {
+            while (b != 0)
+            {
+                int temp = b;
+                b = a % b;
+                a = temp;
+            }
+            return a;
         }
     }
 }
