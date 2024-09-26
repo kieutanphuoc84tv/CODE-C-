@@ -1,0 +1,6 @@
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\BAC 1\bin\Debug\BAC 1.exe.config
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\BAC 1\obj\Debug\BAC 1.csprojResolveAssemblyReference.cache
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\BAC 1\bin\Debug\BAC 1.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\BAC 1\bin\Debug\BAC 1.pdb
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\BAC 1\obj\Debug\BAC 1.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\BAC 1\obj\Debug\BAC 1.pdb

@@ -1,0 +1,6 @@
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\PHANSO\bin\Debug\PHANSO.exe.config
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\PHANSO\bin\Debug\PHANSO.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\PHANSO\bin\Debug\PHANSO.pdb
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\PHANSO\obj\Debug\PHANSO.csprojResolveAssemblyReference.cache
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\PHANSO\obj\Debug\PHANSO.exe
+c:\users\hoc vien\documents\visual studio 2015\Projects\BAC 1\PHANSO\obj\Debug\PHANSO.pdb
