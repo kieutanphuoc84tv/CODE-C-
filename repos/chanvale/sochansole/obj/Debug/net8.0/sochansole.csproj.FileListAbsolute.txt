@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\chanvale\sochansole\bin\Debug\net8.0\sochansole.exe
+C:\Users\PC\source\repos\chanvale\sochansole\bin\Debug\net8.0\sochansole.deps.json
+C:\Users\PC\source\repos\chanvale\sochansole\bin\Debug\net8.0\sochansole.runtimeconfig.json
+C:\Users\PC\source\repos\chanvale\sochansole\bin\Debug\net8.0\sochansole.dll
+C:\Users\PC\source\repos\chanvale\sochansole\bin\Debug\net8.0\sochansole.pdb
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.AssemblyInfo.cs
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.dll
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\refint\sochansole.dll
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.pdb
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\sochansole.genruntimeconfig.cache
+C:\Users\PC\source\repos\chanvale\sochansole\obj\Debug\net8.0\ref\sochansole.dll

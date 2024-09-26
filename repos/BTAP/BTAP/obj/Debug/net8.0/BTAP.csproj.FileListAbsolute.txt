@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\BTAP\BTAP\bin\Debug\net8.0\BTAP.exe
+C:\Users\PC\source\repos\BTAP\BTAP\bin\Debug\net8.0\BTAP.deps.json
+C:\Users\PC\source\repos\BTAP\BTAP\bin\Debug\net8.0\BTAP.runtimeconfig.json
+C:\Users\PC\source\repos\BTAP\BTAP\bin\Debug\net8.0\BTAP.dll
+C:\Users\PC\source\repos\BTAP\BTAP\bin\Debug\net8.0\BTAP.pdb
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.AssemblyInfo.cs
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.dll
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\refint\BTAP.dll
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.pdb
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\BTAP.genruntimeconfig.cache
+C:\Users\PC\source\repos\BTAP\BTAP\obj\Debug\net8.0\ref\BTAP.dll

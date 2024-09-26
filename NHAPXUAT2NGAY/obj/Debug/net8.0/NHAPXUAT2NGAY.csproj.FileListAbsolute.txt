@@ -1,0 +1,14 @@
+C:\Users\PC\source\NHAPXUAT2NGAY\bin\Debug\net8.0\NHAPXUAT2NGAY.exe
+C:\Users\PC\source\NHAPXUAT2NGAY\bin\Debug\net8.0\NHAPXUAT2NGAY.deps.json
+C:\Users\PC\source\NHAPXUAT2NGAY\bin\Debug\net8.0\NHAPXUAT2NGAY.runtimeconfig.json
+C:\Users\PC\source\NHAPXUAT2NGAY\bin\Debug\net8.0\NHAPXUAT2NGAY.dll
+C:\Users\PC\source\NHAPXUAT2NGAY\bin\Debug\net8.0\NHAPXUAT2NGAY.pdb
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.AssemblyInfoInputs.cache
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.AssemblyInfo.cs
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.dll
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\refint\NHAPXUAT2NGAY.dll
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.pdb
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\NHAPXUAT2NGAY.genruntimeconfig.cache
+C:\Users\PC\source\NHAPXUAT2NGAY\obj\Debug\net8.0\ref\NHAPXUAT2NGAY.dll
