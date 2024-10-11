@@ -1,0 +1,16 @@
+D:\c#\BAC 1\caculator\bin\Debug\net8.0-windows\caculator.exe
+D:\c#\BAC 1\caculator\bin\Debug\net8.0-windows\caculator.deps.json
+D:\c#\BAC 1\caculator\bin\Debug\net8.0-windows\caculator.runtimeconfig.json
+D:\c#\BAC 1\caculator\bin\Debug\net8.0-windows\caculator.dll
+D:\c#\BAC 1\caculator\bin\Debug\net8.0-windows\caculator.pdb
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.Form1.resources
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.csproj.GenerateResource.cache
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.AssemblyInfoInputs.cache
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.AssemblyInfo.cs
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.csproj.CoreCompileInputs.cache
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.dll
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\refint\caculator.dll
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.pdb
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\caculator.genruntimeconfig.cache
+D:\c#\BAC 1\caculator\obj\Debug\net8.0-windows\ref\caculator.dll
